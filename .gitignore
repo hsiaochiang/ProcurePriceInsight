@@ -1,0 +1,12 @@
+# Raw procurement data may contain supplier and pricing information.
+*.xlsx
+*.xls
+
+# Notebook/runtime artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
